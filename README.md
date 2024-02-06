@@ -1,3 +1,6 @@
-Clone repo 
+Groupe Younes Baali et Romain Brosolo
 
-NPM i puis NPM RUN TEST pour lancer les tests
+Instructions : 
+- Clone repo 
+- NPM i
+- NPM RUN TEST
